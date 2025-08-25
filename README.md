@@ -43,23 +43,6 @@ Highly praised for facial accuracy, smooth transitions, and being fully web-base
 
 **Ethical Considerations:**
 Includes visible watermarks and trace markers to address deepfake concerns.
-
----
-
-### **VidSoul: Versatile NSFW AI Video Generation with Customization**
-
-**VidSoul** is known for flexibility and creator control.
-
-**Key Features:**
-- **Multi-Modal Generation:** Text-to-video and image-to-video options.
-- **Advanced Customization:** Fine-tune scenes and character design.
-- **Realism:** Lifelike facial expressions and movement.
-- **User Accessibility:** Beginner-friendly UI with pro-level tools.
-- **Privacy:** Strong user data protection.
-
-**Community Feedback:**
-Valued for its creative freedom and responsive updates.
-
 ---
 
 ### **MimicPC: The Gold Standard for Prompt-Based NSFW AI Video Creation**
