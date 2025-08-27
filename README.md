@@ -1,6 +1,6 @@
 # Try Best NSFW AI Video Generator in 2025: SoulGen
 
-The world of adult content creation is being transformed by the rise of the [**NSFW AI video generator**](https://www.soulgen.net/ai-video-generator). In 2025, these tools empower creators to bring their boldest fantasies to life with unprecedented realism, customization, and ease of use.
+The world of adult content creation is being transformed by the rise of the [**NSFW AI video generator**](https://www.soulgen.net/video-generator?utm_source=Git). In 2025, these tools empower creators to bring their boldest fantasies to life with unprecedented realism, customization, and ease of use.
 
 ---
 
