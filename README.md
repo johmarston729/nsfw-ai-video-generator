@@ -123,16 +123,9 @@ The global NSFW AI video generator market:
 - **API Rate Limits**: 1000 requests/hour (Pro plan)
 - **Uptime**: 99.9% SLA guarantee
 
-## 📚 Documentation
-
-- [API Documentation](https://docs.soulgen.net/api)
-- [SDK Reference](https://docs.soulgen.net/sdk)
-- [Tutorials](https://docs.soulgen.net/tutorials)
-- [Best Practices](https://docs.soulgen.net/best-practices)
-
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+We welcome contributions! Please see our Contributing Guide for details.
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
@@ -140,15 +133,10 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🌟 Support
 
 - **Website**: [soulgen.net](https://www.soulgen.net/)
-- **Documentation**: [docs.soulgen.net](https://docs.soulgen.net)
-- **Email**: business_shawnbanks@soulgen.ai
 - **Issues**: [GitHub Issues](https://github.com/soulgen/soulgen/issues)
 
 ## 🏆 Awards & Recognition
